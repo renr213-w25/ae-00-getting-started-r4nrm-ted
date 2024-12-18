@@ -1,6 +1,6 @@
 ---
 title: "UN Votes"
-author: "Mine Çetinkaya-adsfadf"
+author: "Glen Çetinkaya-adsfadf"
 format: html
 editor: visual
 ---
